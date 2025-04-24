@@ -151,7 +151,7 @@ Several insights were derived through comprehensive visualizations, including:
 - **ROC Curves** to compare Model Performances
 
 ![Churn Distribution](/churn_distribution.png)
-![Feature Importance](/feature_importance.png)
+![Feature Importance](/feature_importances.png)
 ![Model ROC Comparison](outputs/roc_comparison.png)
 
 ---
