@@ -150,7 +150,7 @@ Several insights were derived through comprehensive visualizations, including:
 - **Confusion Matrices** before and after SMOTE and Feature Selection
 - **ROC Curves** to compare Model Performances
 
-![Churn Distribution](outputs/churn_distribution.png)
+![Churn Distribution](/churn_distribution.png)
 ![Feature Importance](outputs/feature_importance.png)
 ![Model ROC Comparison](outputs/roc_comparison.png)
 
