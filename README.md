@@ -111,6 +111,7 @@ This project is part of the Coursework for **Module 7072CEM – Machine Learning
 **Author:** Benjamin Ibok  
 **Institution:** Coventry University  
 **Email:** ibokb@coventry.ac.uk  
+**Personal Email:** benjaminsibok@gmail.com
 
 ---
 
